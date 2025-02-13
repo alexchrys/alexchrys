@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexchrys
 - 🌱 SQL and Python are my strengths.
-- 🏁 Currently learning HTML, CSS and JavaScript.
-- 🧠 Data Analyst / Scientist with some experience in Data Warehousing. Aspiring to learn more about backend development with a little frontend to round it up.
+- 🧠 Data Analyst / Scientist with some experience in Data Warehousing. Aspiring to learn more about AI Engineering.
 
 <!---
 alexchrys/alexchrys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
